@@ -32,6 +32,12 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: config.Google_Analytics_Tracking_ID,
+      },
+    },
+    {
       resolve: `gatsby-plugin-google-tagmanager`,
       options: {
         id: config.Google_Tag_Manager_ID,

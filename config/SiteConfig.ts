@@ -11,9 +11,9 @@ export default {
   siteDescription: 'A ServiceNow blog for the community', // Your site description
   author: 'Chris Yang', // Author for schemaORGJSONLD
 
-  // siteFBAppID: '123456789', // Facebook App ID - Optional
-  // userTwitter: '@mhadaily', // Twitter Username - Optional
-  // ogSiteName: 'mhadaily', // Facebook Site Name - Optional
+  // siteFBAppID: '', // Facebook App ID - Optional
+  // userTwitter: '', // Twitter Username - Optional
+  // ogSiteName: '', // Facebook Site Name - Optional
   // ogLanguage: 'en_US', // Facebook Language
 
   // Manifest and Progress color
@@ -31,5 +31,6 @@ export default {
 
   //
   Google_Tag_Manager_ID: 'GTM-XXXXXXX',
+  Google_Analytics_Tracking_ID: 'UA-127455366-2',
   POST_PER_PAGE: 4,
 };
