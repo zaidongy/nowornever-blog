@@ -66,12 +66,12 @@ export default class IndexPage extends React.Component<PageProps> {
           <Homepage>
             <GridRow background={true}>
               <HomepageContent center={true}>
-                <img src={config.siteLogo} />
+                {/* <img src={config.siteLogo} /> */}
                 <h1>
-                  Hi. I am <br />
-                  Majid Hajian
+                  It's <br />
+                  Now or Never
                 </h1>
-                <p>I write about JavaScript, Angular, Ember, React, Vue, GlimmerJs, NodeJs, Rails, Go, Gatsby and ...</p>
+                <p>Start creating innovative solutions for interesting problems on the ServiceNow platform</p>
                 <Link to="/contact">
                   <Button big={true}>
                     <svg width="1792" height="1792" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
@@ -92,14 +92,15 @@ export default class IndexPage extends React.Component<PageProps> {
             </GridRow>
             <GridRow>
               <HomepageContent>
-                <h2>About Me</h2>
+                <h2>About Chris</h2>
                 <p>
-                  Though I am a results-driven front-end developer by day who have converted inactive designs to fully interactive,
-                  well-developed, accessible and standards-based user interfaces. I am completely enthusiast with a full stack environment
-                  and passionate about JavaScript world.
+                  I'm a ServiceNow developer with a passion for clean and elegant code. 
+                  Over the years I have come across many interesting problems 
+                  while working on the ServiceNow platform and I'd like to share my solutions
+                  for those who are just starting their ServiceNow journey.
                 </p>
                 <hr />
-                <h2>Latest Blog</h2>
+                <h2>Latest Post</h2>
                 {edges.map(post => (
                   <Article
                     title={post.node.frontmatter.title}
