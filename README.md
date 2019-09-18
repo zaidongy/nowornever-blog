@@ -29,3 +29,9 @@ npm start
 ```
 
 5. Site is served on **localhost:8000**
+
+## Gatsby Boilerplate Template
+
+Shoutout and credit to Majid Hajian for creating the boilerplate template.
+
+https://github.com/mhadaily/gatsby-starter-typescript-power-blog
