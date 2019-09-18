@@ -1,50 +1,23 @@
-## Gatsby 2 Power blog starter with Typescript
-More features are coming, stay tuned! 
+## ServiceNow Blog
 
-## Success Stories:
-- I am using this template for my website https://www.majidhajian.com
+This is my code for ServiceNow blog built on Gatsby and hosted on Netlify.
 
-### Description
-This is a standard starter with Typescript, TSLint, StyleLint, Prettier, Lint-Staged(Husky), Sass, StyleComponent, PWA
+## Running the code locally
 
-#### Desktop
-<img src="https://raw.githubusercontent.com/mhadaily/gatsby-starter-typescript-power-blog/master/desktop.png">
+1. Clone the repo
 
-#### Mobile
-<img src="https://raw.githubusercontent.com/mhadaily/gatsby-starter-typescript-power-blog/master/mobile.png" width="300px">
+`git clone https://github.com/zaidongy/nowornever-blog.git`
 
-### new project
-```
-gatsby new my_blog https://github.com/mhadaily/gatsby-starter-typescript-power-blog
-```
+2. Install the Gatsby CLI
 
-### Keywords
-  - PWA
-  - Blog
-  - Personal website
-  - TypeScript
-  - TSLint
-  - Progressive web app
-  - StyleLint
-  - Prettier
-  - Lint-Staged
-  - Styling:SCSS
-  - Prisim.js
-  - Style Components
-  - Markdown
-  - Pagination
+`npm install -g gatsby-cli`
 
-### Features
-  - Mobile-First approach in development.
-  - TSLint & Prettier
-  - Offline support
-  - Category and Tag for post
-  - Type Safe by TypeScript
-  - Format Safe by TSLint, StyleLint and Prettier with Lint-Staged(Husky)
-  - Blog page
-  - Syntax highlighting in code blocks.
-  - Pagination Ready
-  - Ready to deploy to Github pages
-  - Automatic RSS generation.
-  - Automatic Sitemap generation.
-  - Automatic support for Google Tag Manager
+3. Install dependencies
+
+`npm install`
+
+4. Run the development server
+
+`npm start`
+
+5. Site is served on `localhost:8000`
