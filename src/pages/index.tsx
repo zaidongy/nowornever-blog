@@ -66,7 +66,6 @@ export default class IndexPage extends React.Component<PageProps> {
           <Homepage>
             <GridRow background={true}>
               <HomepageContent center={true}>
-                {/* <img src={config.siteLogo} /> */}
                 <h1>
                   It's <br />
                   Now or Never

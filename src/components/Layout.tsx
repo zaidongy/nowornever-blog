@@ -87,8 +87,7 @@ export class Layout extends React.PureComponent<{}> {
               <GlobalStyle />
               {children}
               <Footer>
-                &copy; Chris Yang • {split(data.site.buildTime, '/')[2]} <br />
-                <span>Last build: {data.site.buildTime}</span>
+                &copy; Chris Yang • {split(data.site.buildTime, '/')[2]}
               </Footer>
             </React.Fragment>
           </ThemeProvider>

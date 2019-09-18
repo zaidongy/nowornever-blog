@@ -10,7 +10,6 @@ export default {
   favicon: 'src/favicon.png', // Your image for favicons. You can find it in the /src folder
   siteDescription: 'A ServiceNow blog for the community', // Your site description
   author: 'Chris Yang', // Author for schemaORGJSONLD
-  // siteLogo: '/assets/logo.png', // Image for schemaORGJSONLD
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
   // userTwitter: '@mhadaily', // Twitter Username - Optional

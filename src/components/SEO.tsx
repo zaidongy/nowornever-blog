@@ -65,11 +65,7 @@ export const SEO = (props: SEO) => {
         },
         publisher: {
           '@type': 'Organization',
-          name: config.author,
-          logo: {
-            '@type': 'ImageObject',
-            url: config.siteUrl + realPrefix + config.siteLogo,
-          },
+          name: config.author
         },
         isPartOf: blogURL,
         mainEntityOfPage: {
