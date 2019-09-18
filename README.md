@@ -28,4 +28,4 @@ npm install
 npm start
 ```
 
-5. Site is served on `localhost:8000`
+5. Site is served on **localhost:8000**
