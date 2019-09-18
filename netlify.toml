@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "https://quirky-aryabhata-8133af.netlify.com/*"
+  to = "https://nowornever.io/:splat"
+  force = true
