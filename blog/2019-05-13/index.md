@@ -3,7 +3,7 @@ date: "2019-05-13"
 title: "ServiceNow Knowlege 2019"
 category: "General"
 tags: ['Knowledge', 'Conference', 'K19', 'Las Vegas', 'Training', 'learning']
-banner: "/assets/bg/4.jpg"
+banner: "/assets/bg/2.jpg"
 ---
 
 # ServiceNow Knowledge 2019 Notes

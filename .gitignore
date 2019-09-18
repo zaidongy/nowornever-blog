@@ -61,3 +61,7 @@ bundle-stats.json
 
 # npm package json
 package-lock.json
+
+# DS_Store
+.DS_Store
+static/assets/.DS_Store
