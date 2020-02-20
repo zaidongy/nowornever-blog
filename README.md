@@ -1,6 +1,6 @@
 ## ✅ ServiceNow Blog
 
-This is my code for ServiceNow blog built on Gatsby and hosted on Netlify.
+This is my ServiceNow blog built on Gatsby and deployed on Netlify.
 
 ## 🔨Running the code locally 
 

@@ -8,7 +8,7 @@ export default {
   siteBanner: '/assets/banner.jpg', // Your image for og:image tag. You can find it in the /static folder
   defaultBg: '/assets/bg.png', // default post background header
   favicon: 'src/favicon.png', // Your image for favicons. You can find it in the /src folder
-  siteDescription: 'A ServiceNow blog for the community', // Your site description
+  siteDescription: 'Everything ServiceNow', // Your site description
   author: 'Chris Yang', // Author for schemaORGJSONLD
 
   // siteFBAppID: '', // Facebook App ID - Optional

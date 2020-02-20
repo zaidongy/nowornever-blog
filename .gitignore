@@ -65,3 +65,6 @@ package-lock.json
 # DS_Store
 .DS_Store
 static/assets/.DS_Store
+
+# Blog posts
+blog/2019-12-05
