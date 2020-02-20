@@ -87,7 +87,7 @@ export class Layout extends React.PureComponent<{}> {
               <GlobalStyle />
               {children}
               <Footer>
-                <a href="/">Home</a> &nbsp; ● &nbsp; <a href="/blog">Blog</a> &nbsp; ● &nbsp; <a href="/contact">Contact</a>
+                <a href="/">Home</a> &nbsp; ● &nbsp; <a href="/blog">Posts</a> &nbsp; ● &nbsp; <a href="/contact">About</a>
                 <br />
                 <p>&copy; Chris Yang • {split(data.site.buildTime, '/')[2]}</p>
               </Footer>

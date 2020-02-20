@@ -1,7 +1,7 @@
 export default {
   pathPrefix: '/', // Prefix for all links. If you deploy your site to example.com/portfolio your pathPrefix should be "portfolio"
 
-  siteTitle: 'Now Or Never - A ServiceNow Blog', // Navigation and Site Title
+  siteTitle: 'Now Or Never', // Navigation and Site Title
   siteTitleAlt: 'Now Or Never - A ServiceNow Blog', // Alternative Site title for SEO
   siteUrl: 'https://nowornever.io', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
