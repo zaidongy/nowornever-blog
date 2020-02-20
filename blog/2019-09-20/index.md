@@ -162,4 +162,4 @@ In this table, the question field is a reference to the actual variable definiti
 
 Then the final result of the notification should be a nicely formatted table with our users and their access!
 
-![Result](/assets/screenshots/mrvs/xplore.png)
+![Result](/assets/screenshots/mrvs/result.png)
