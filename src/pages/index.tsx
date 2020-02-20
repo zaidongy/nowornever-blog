@@ -92,7 +92,7 @@ export default class IndexPage extends React.Component<PageProps> {
             <GridRow>
               <HomepageContent>
                 <h2>Hi, I'm Chris</h2>
-                <p>Just another developer who loves customizations way too much. Proceed at your own risk. 😈</p>
+                <p>Just another developer who wants to customize everything. Proceed at your own risk. 😈</p>
                 <hr />
                 <h2>Latest Post</h2>
                 {edges.map(post => (
