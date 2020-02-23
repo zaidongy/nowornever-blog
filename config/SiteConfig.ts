@@ -30,7 +30,7 @@ export default {
   siteFBAppID: '',
 
   //
-  Google_Tag_Manager_ID: 'GTM-XXXXXXX',
+  Google_Tag_Manager_ID: 'GTM-MBW6F64',
   Google_Analytics_Tracking_ID: 'UA-127455366-2',
   POST_PER_PAGE: 4,
 };
